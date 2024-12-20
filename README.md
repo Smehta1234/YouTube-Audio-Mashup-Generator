@@ -86,7 +86,7 @@ python mashup.py "Sharry Maan" 15 5 mashup.mp3
 YouTube-Mashup-Generator/
 ├── audios/               # Directory for downloaded audio files
 ├── output/               # Directory for the final mashup output
-├── mashup.py             # Main script for mashup generation
+├── mashup.ipynb             # Main script for mashup generation
 ├── README.md             # Project documentation
 ```
 
